@@ -1,4 +1,4 @@
-受到 [BV1hu411m713](https://www.bilibili.com/video/BV1hu411m713]) 启发做来练练手的东西。
+受到 [BV1hu411m713](https://www.bilibili.com/video/BV1hu411m713) 启发做来练练手的东西。
 
 ## 原理
 1. 用 `video_to_frame.py` 把原视频转换为帧
