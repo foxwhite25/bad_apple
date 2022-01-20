@@ -39,4 +39,4 @@ def process(frame: int):
 
 if __name__ == '__main__':
     with Pool(8) as p:
-        p.map(process, list(range(1000, 6572)))
+        p.map(process, list(range(6572)))
